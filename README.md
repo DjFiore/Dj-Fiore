@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DJ Fiore - Link</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #ffffff;
+      color: #333;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .profile-img {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-top: 30px;
+      border: 4px solid #ddd;
+    }
+
+    h1 {
+      font-size: 24px;
+      margin: 20px 0 10px;
+    }
+
+    p {
+      font-size: 16px;
+      color: #777;
+      margin-bottom: 30px;
+    }
+
+    .link-btn {
+      display: block;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 14px;
+      border-radius: 8px;
+      margin: 12px 0;
+      transition: background 0.3s;
+    }
+
+    .link-btn:hover {
+      background-color: #0056b3;
+    }
+
+    footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="WhatsApp Image 2025-07-24 at 20.19.23.jpeg" alt="DJ Fiore" class="profile-img">
+    <h1>DJ Fiore</h1>
+    <p>Seguimi e resta in contatto</p>
+
+    <a class="link-btn" href="https://www.facebook.com/gianfranc.fioravan.62" target="_blank">🌐 Facebook</a>
+    <a class="link-btn" href="https://www.instagram.com/djfiore1962/" target="_blank">📸 Instagram</a>
+    <a class="link-btn" href="https://www.youtube.com/@djfiore_bologna" target="_blank">▶️ YouTube</a>
+    <a class="link-btn" href="https://wa.me/393291270271" target="_blank">💬 WhatsApp</a>
+
+    <footer>© 2025 DJ Fiore</footer>
+  </div>
+</body>
+</html>
